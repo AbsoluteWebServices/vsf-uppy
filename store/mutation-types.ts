@@ -1,0 +1,3 @@
+export const SET_STATE = 'SET_STATE'
+export const ADD_LISTENER = 'ADD_LISTENER'
+export const REMOVE_LISTENER = 'REMOVE_LISTENER'

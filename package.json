@@ -1,0 +1,25 @@
+{
+  "name": "@vue-storefront/vsf-uppy",
+  "version": "0.1.0",
+  "description": "The Uppy wrapper module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "private"
+  },
+  "keywords": [
+    "uppy",
+    "vue-storefront",
+    "divanteltd/vue-storefront"
+  ],
+  "author": "Dmitry Kozachek <dmitryk@absoluteweb.com> and contributors",
+  "maintainers": [],
+  "license": "MIT",
+  "dependencies": {
+    "@uppy/core": "^1.2.0",
+    "@uppy/dashboard": "^1.2.0",
+    "@uppy/xhr-upload": "^1.2.0"
+  }
+}
